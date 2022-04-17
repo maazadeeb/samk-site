@@ -1,9 +1,13 @@
-This is the Next.js starter site (and course files) for the Next.js & Contentful tutorial by the Net Ninja.
+# samk-site
 
-## Getting Started
+This is the blog for Samreen's website. For now, it only hosts the recipes she wants to share.
 
-To use the starter project, run the following in a terminal:
+## Tech
 
-```bash
-npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-contentful/tree/lesson-1-starter-site
-```
+- Next.js
+- Contentful
+- Netlify
+
+# Credits
+
+Built using the starter provided [here](https://github.com/iamshaunjp/next-contentful) using the [YouTube tutorial](https://youtu.be/m9mNsYJbkNg)
