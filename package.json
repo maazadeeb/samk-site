@@ -1,5 +1,6 @@
 {
   "name": "samk-site",
+  "description": "Site for Samreen Kazimi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
